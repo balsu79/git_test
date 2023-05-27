@@ -1,2 +1,4 @@
 # git_test
-Teaching GIT
+
+My teaching github repo!
+Hello odin!
